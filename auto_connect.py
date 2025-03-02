@@ -36,8 +36,8 @@ configParameters = {
         'serviceSuffixId': '-1',
         'shopIdE': None,
         'userGroupId': 0,
-        'userName': '230021101224',  # 学号
-        'userPassword': 'MDQwNDUy',  # 密码
+        'userName': '',  # 学号
+        'userPassword': '',  # 密码
         'validateCode': '',
         'validationType': 0,
         'wlannasid': None
